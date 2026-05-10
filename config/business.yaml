@@ -1,0 +1,18 @@
+# Configuración del negocio — Generado por AgentKit
+negocio:
+  nombre: "Carnes 1A"
+  descripcion: >
+    Carnicería de barrio que vende carne fresca de calidad a hogares, tiendas y restaurantes.
+    Nos enfocamos en atención cercana, precios justos y cortes personalizados.
+  horario: "Lunes a Domingos de 4am a 2pm"
+
+agente:
+  nombre: "Asistente Carnes 1A"
+  tono: "Amigable y casual"
+  casos_de_uso:
+    - "Responder preguntas frecuentes"
+    - "Tomar pedidos"
+
+metadata:
+  creado: "2026-05-10"
+  version: "1.0"

@@ -1,0 +1,27 @@
+CARNES 1A
+
+Productos frecuentes:
+- Carne molida
+- Costilla
+- Lomo
+- Cerdo
+- Pollo
+- Chorizo
+
+Servicios:
+- Cortes personalizados
+- Domicilios
+- Atención a tiendas y restaurantes
+
+Preguntas frecuentes:
+- ¿Qué métodos de pago aceptan?
+- ¿Tienen domicilio?
+- ¿Cuánto tarda el pedido?
+- ¿Qué promociones tienen hoy?
+
+Objetivo del chatbot:
+- Reducir filas
+- Organizar pedidos
+- Mejorar atención
+- Anticipar demanda
+
